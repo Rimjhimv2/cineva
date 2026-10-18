@@ -112,3 +112,4 @@ Seed the movie and show tables with `server/db/seed.sql`. The IDs intentionally 
 
 ## Expanded movie catalogue
 The catalogue now includes 50 movies, with a larger Romance section. After applying the updated files, run `psql -d cineva -f server/db/seed.sql` to add the extra movies and showtimes to an existing database.
+# cineva
