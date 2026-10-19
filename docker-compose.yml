@@ -1,0 +1,17 @@
+# Optional: a ready-made PostgreSQL for local development.
+#   docker compose up -d db
+# Creates the databases "cineva" (the app) and "cineva_test" (used by `npm test`).
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: cineva
+      POSTGRES_PASSWORD: cineva
+      POSTGRES_DB: cineva
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./server/db/docker-init:/docker-entrypoint-initdb.d:ro
+volumes:
+  pgdata:
