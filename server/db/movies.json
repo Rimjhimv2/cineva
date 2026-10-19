@@ -1,0 +1,492 @@
+[
+  {
+    "title": "Dune: Part Two",
+    "genre": "Sci-Fi / Adventure",
+    "duration": 166,
+    "rating": 8.6,
+    "language": "English",
+    "certificate": "UA",
+    "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "genre": "Sci-Fi / Drama",
+    "duration": 169,
+    "rating": 8.7,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A team of explorers travels beyond this galaxy to discover whether mankind has a future among the stars.",
+    "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action / Crime",
+    "duration": 152,
+    "rating": 9,
+    "language": "English",
+    "certificate": "UA",
+    "description": "Batman faces his greatest psychological and physical test when the Joker unleashes chaos on Gotham.",
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "title": "Across the Spider-Verse",
+    "genre": "Animation / Action",
+    "duration": 140,
+    "rating": 8.7,
+    "language": "English",
+    "certificate": "UA",
+    "description": "Miles Morales catapults across the multiverse, where he encounters a team charged with protecting its existence.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Oppenheimer",
+    "genre": "Drama / History",
+    "duration": 180,
+    "rating": 8.3,
+    "language": "English",
+    "certificate": "UA",
+    "description": "The story of J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "poster": "https://image.tmdb.org/t/p/w500/ptpr0kGAckfQkJeJIt8st5dglvd.jpg"
+  },
+  {
+    "title": "Everything Everywhere All at Once",
+    "genre": "Action / Comedy",
+    "duration": 139,
+    "rating": 7.8,
+    "language": "English",
+    "certificate": "A",
+    "description": "An exhausted laundromat owner discovers she must connect with parallel-universe versions of herself.",
+    "poster": "https://image.tmdb.org/t/p/w500/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
+  },
+  {
+    "title": "Barbie",
+    "genre": "Comedy / Adventure",
+    "duration": 114,
+    "rating": 7,
+    "language": "English",
+    "certificate": "UA",
+    "description": "Barbie and Ken discover the joys and challenges of life beyond Barbie Land.",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Barbie_Logo.svg/960px-Barbie_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "title": "Inception",
+    "genre": "Sci-Fi / Action",
+    "duration": 148,
+    "rating": 8.8,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A skilled thief enters dreams to steal secrets and is offered a chance at redemption.",
+    "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "genre": "Action / Adventure",
+    "duration": 181,
+    "rating": 8.4,
+    "language": "English",
+    "certificate": "UA",
+    "description": "The Avengers assemble once more to undo the devastation caused by Thanos.",
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
+  },
+  {
+    "title": "The Batman",
+    "genre": "Action / Crime",
+    "duration": 176,
+    "rating": 7.8,
+    "language": "English",
+    "certificate": "UA",
+    "description": "Batman investigates corruption in Gotham while pursuing a mysterious serial killer.",
+    "poster": "https://image.tmdb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+  },
+  {
+    "title": "Joker",
+    "genre": "Crime / Drama",
+    "duration": 122,
+    "rating": 8.4,
+    "language": "English",
+    "certificate": "A",
+    "description": "A struggling comedian descends into a dark transformation in Gotham City.",
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  },
+  {
+    "title": "Inside Out 2",
+    "genre": "Animation / Comedy",
+    "duration": 96,
+    "rating": 7.6,
+    "language": "English",
+    "certificate": "U",
+    "description": "Riley faces new emotions as she navigates the challenges of being a teenager.",
+    "poster": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "genre": "Sci-Fi / Adventure",
+    "duration": 121,
+    "rating": 8,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A group of unlikely heroes band together to protect the galaxy.",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Guardians_of_the_Galaxy_Logo_Black.svg/960px-Guardians_of_the_Galaxy_Logo_Black.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "title": "The Super Mario Bros. Movie",
+    "genre": "Animation / Adventure",
+    "duration": 92,
+    "rating": 7,
+    "language": "English",
+    "certificate": "U",
+    "description": "Mario and Luigi travel through a colourful world on an unexpected adventure.",
+    "poster": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
+  },
+  {
+    "title": "La La Land",
+    "genre": "Drama / Romance",
+    "duration": 128,
+    "rating": 8,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A musician and an aspiring actor fall in love while chasing their dreams in Los Angeles.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "genre": "Action / Drama",
+    "duration": 130,
+    "rating": 8.2,
+    "language": "English",
+    "certificate": "UA",
+    "description": "Maverick trains a new generation of pilots for a dangerous specialised mission.",
+    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+  },
+  {
+    "title": "The Notebook",
+    "genre": "Romance / Drama",
+    "duration": 123,
+    "rating": 7.8,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A young couple falls in love despite differences in their backgrounds.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/86/Posternotebook.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Pride & Prejudice",
+    "genre": "Romance / Drama",
+    "duration": 129,
+    "rating": 7.8,
+    "language": "English",
+    "certificate": "U",
+    "description": "Elizabeth Bennet and Mr Darcy overcome pride and prejudice to find love.",
+    "poster": "https://image.tmdb.org/t/p/w500/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg"
+  },
+  {
+    "title": "Me Before You",
+    "genre": "Romance / Drama",
+    "duration": 110,
+    "rating": 7.4,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A young woman forms an unexpected bond with a man who has lost his zest for life.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/fd/Me_Before_You_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "genre": "Romance / Drama",
+    "duration": 126,
+    "rating": 7.7,
+    "language": "English",
+    "certificate": "UA",
+    "description": "Two teenagers with cancer fall in love and find meaning in their time together.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/4/41/The_Fault_in_Our_Stars_%28Official_Film_Poster%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "10 Things I Hate About You",
+    "genre": "Romance / Comedy",
+    "duration": 97,
+    "rating": 7.4,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A high-school romance begins with a plan that becomes unexpectedly real.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/10_Things_I_Hate_About_You_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Titanic",
+    "genre": "Romance / Drama",
+    "duration": 195,
+    "rating": 7.9,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A romance blossoms aboard the ill-fated RMS Titanic.",
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  {
+    "title": "Anyone But You",
+    "genre": "Romance / Comedy",
+    "duration": 103,
+    "rating": 6.2,
+    "language": "English",
+    "certificate": "A",
+    "description": "Two people pretend to be a couple at a wedding and discover real feelings.",
+    "poster": "https://image.tmdb.org/t/p/w500/yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg"
+  },
+  {
+    "title": "To All the Boys I’ve Loved Before",
+    "genre": "Romance / Comedy",
+    "duration": 99,
+    "rating": 7,
+    "language": "English",
+    "certificate": "U",
+    "description": "Secret love letters turn a quiet teenager’s life upside down.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/b8/To_All_the_Boys_I%27ve_Loved_Before_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Jab We Met",
+    "genre": "Romance / Comedy",
+    "duration": 138,
+    "rating": 7.9,
+    "language": "Hindi",
+    "certificate": "U",
+    "description": "A lively young woman changes the life of a heartbroken businessman.",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/1/15/Kareena_kapoor_vaio_launch2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Yeh Jawaani Hai Deewani",
+    "genre": "Romance / Drama",
+    "duration": 160,
+    "rating": 7.2,
+    "language": "Hindi",
+    "certificate": "UA",
+    "description": "Old friends reunite and discover how much love and ambition have changed them.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/15/Yeh_jawani_hai_deewani.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Aashiqui 2",
+    "genre": "Romance / Musical",
+    "duration": 132,
+    "rating": 7,
+    "language": "Hindi",
+    "certificate": "UA",
+    "description": "A singer helps a talented woman find fame while struggling with his own demons.",
+    "poster": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
+  },
+  {
+    "title": "Sita Ramam",
+    "genre": "Romance / Drama",
+    "duration": 163,
+    "rating": 8.5,
+    "language": "Telugu",
+    "certificate": "U",
+    "description": "A soldier receives letters from a woman that lead him into a moving love story.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1d/Sita_Ramam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Veer-Zaara",
+    "genre": "Romance / Drama",
+    "duration": 192,
+    "rating": 7.8,
+    "language": "Hindi",
+    "certificate": "U",
+    "description": "An Indian pilot and a Pakistani woman are separated by borders and time.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/Veer-Zaara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Dilwale Dulhania Le Jayenge",
+    "genre": "Romance / Comedy",
+    "duration": 189,
+    "rating": 8,
+    "language": "Hindi",
+    "certificate": "U",
+    "description": "Two young Indians fall in love during a European trip and fight for family approval.",
+    "poster": "https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg"
+  },
+  {
+    "title": "Rocky Aur Rani Kii Prem Kahaani",
+    "genre": "Romance / Comedy",
+    "duration": 168,
+    "rating": 6.8,
+    "language": "Hindi",
+    "certificate": "UA",
+    "description": "Two people from very different families try to win their families over.",
+    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+  },
+  {
+    "title": "The Idea of You",
+    "genre": "Romance / Drama",
+    "duration": 115,
+    "rating": 6.4,
+    "language": "English",
+    "certificate": "A",
+    "description": "A single mother unexpectedly falls for a global music star.",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/TIFF-2026-OBSESSION-CURRY-BARKER-01_%28cropped_3x4%29.png/960px-TIFF-2026-OBSESSION-CURRY-BARKER-01_%28cropped_3x4%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "title": "Crazy Rich Asians",
+    "genre": "Romance / Comedy",
+    "duration": 121,
+    "rating": 6.9,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A woman discovers her boyfriend’s family is among the wealthiest in Singapore.",
+    "poster": "https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg"
+  },
+  {
+    "title": "Before Sunrise",
+    "genre": "Romance / Drama",
+    "duration": 101,
+    "rating": 8.1,
+    "language": "English",
+    "certificate": "UA",
+    "description": "Two strangers spend one unforgettable night walking through Vienna.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/da/Before_Sunrise_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Before Sunset",
+    "genre": "Romance / Drama",
+    "duration": 80,
+    "rating": 8.1,
+    "language": "English",
+    "certificate": "UA",
+    "description": "Two former lovers reconnect in Paris years after their first meeting.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/d1/Before_Sunset_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "The Proposal",
+    "genre": "Romance / Comedy",
+    "duration": 108,
+    "rating": 6.8,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A demanding editor asks her assistant to pose as her fiancé.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/02/The_Proposal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Notting Hill",
+    "genre": "Romance / Comedy",
+    "duration": 124,
+    "rating": 7.2,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A bookseller and a famous actress find love in London.",
+    "poster": "https://image.tmdb.org/t/p/w500/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg"
+  },
+  {
+    "title": "Kal Ho Naa Ho",
+    "genre": "Romance / Drama",
+    "duration": 186,
+    "rating": 7.9,
+    "language": "Hindi",
+    "certificate": "U",
+    "description": "A cheerful newcomer transforms the lives of a young woman and her family.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/a/aa/Kal_Ho_Naa_Ho_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Tamasha",
+    "genre": "Romance / Drama",
+    "duration": 139,
+    "rating": 7.3,
+    "language": "Hindi",
+    "certificate": "UA",
+    "description": "Two people meet on holiday and later challenge each other to live authentically.",
+    "poster": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+  },
+  {
+    "title": "The Greatest Showman",
+    "genre": "Musical / Drama",
+    "duration": 105,
+    "rating": 7.5,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A musical celebration of imagination, ambition, and belonging.",
+    "poster": "https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg"
+  },
+  {
+    "title": "Coco",
+    "genre": "Animation / Adventure",
+    "duration": 105,
+    "rating": 8.4,
+    "language": "English",
+    "certificate": "U",
+    "description": "A boy follows his passion for music into the Land of the Dead.",
+    "poster": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+  },
+  {
+    "title": "Frozen II",
+    "genre": "Animation / Adventure",
+    "duration": 103,
+    "rating": 6.8,
+    "language": "English",
+    "certificate": "U",
+    "description": "Elsa and Anna journey beyond their kingdom to discover the source of Elsa’s powers.",
+    "poster": "https://image.tmdb.org/t/p/w500/mINJaa34MtknCYl5AjtNJzWj8cD.jpg"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "genre": "Comedy / Adventure",
+    "duration": 99,
+    "rating": 8.1,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A legendary concierge and his lobby boy become embroiled in a theft and family dispute.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "Knives Out",
+    "genre": "Mystery / Comedy",
+    "duration": 130,
+    "rating": 7.9,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A detective investigates the death of a wealthy crime novelist.",
+    "poster": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg"
+  },
+  {
+    "title": "The Martian",
+    "genre": "Sci-Fi / Adventure",
+    "duration": 141,
+    "rating": 8,
+    "language": "English",
+    "certificate": "UA",
+    "description": "An astronaut stranded on Mars fights to survive until rescue arrives.",
+    "poster": "https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg"
+  },
+  {
+    "title": "Black Panther",
+    "genre": "Action / Adventure",
+    "duration": 134,
+    "rating": 7.3,
+    "language": "English",
+    "certificate": "UA",
+    "description": "T’Challa returns home to take his place as king of Wakanda.",
+    "poster": "https://image.tmdb.org/t/p/w500/uxzzxijgPIY7slzFvMotPv8wjKA.jpg"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "genre": "Sci-Fi / Action",
+    "duration": 150,
+    "rating": 7.9,
+    "language": "English",
+    "certificate": "UA",
+    "description": "The Guardians embark on a mission to protect one of their own.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/74/Guardians_of_the_Galaxy_Vol._3_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "title": "The Hunger Games",
+    "genre": "Action / Sci-Fi",
+    "duration": 142,
+    "rating": 7.2,
+    "language": "English",
+    "certificate": "UA",
+    "description": "A teenager volunteers to take her sister’s place in a televised fight for survival.",
+    "poster": "https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg"
+  },
+  {
+    "title": "Harry Potter and the Philosopher’s Stone",
+    "genre": "Fantasy / Adventure",
+    "duration": 152,
+    "rating": 7.6,
+    "language": "English",
+    "certificate": "U",
+    "description": "A young wizard discovers his identity and begins his first year at Hogwarts.",
+    "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+  }
+]
